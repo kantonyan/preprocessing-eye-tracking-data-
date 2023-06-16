@@ -1,5 +1,5 @@
 # preprocessing-eye-tracking-data-
-I share my codes on extraction of fixations and saccades on ROIs of a stimuli 
+I share my codes on extraction of fixations and saccades on ROIs of a stimuli. 
 I created and used the codes for my dissertation. See the example of the stimuli I used (infographic). 
 First, I run edf2asc64.exe program and converted edf files extracted from eye-tracker to asc files. 
 Second, I created csv files (use ascii2csv.ipynb file). Each asc file contained data from one subject, but each subject completed 12 experiemnts. Hence, for each subject I created 12 csv files for each experiment and a combined csv file.  
